@@ -166,7 +166,7 @@ animation-delay: 9s;
 
 /* mobile devices */
 
-/* @media(max-width:768px){
+@media(max-width:768px){
     .banner1, .banner2, .banner3, .banner4 { 
         height: 350px !important;
     }
@@ -183,4 +183,4 @@ animation-delay: 9s;
     .text-box span{
         left: auto;
     }
-} */
+}
